@@ -72,3 +72,13 @@ body {
     border: none;
     margin-right: 10px;
 }
+
+h2 {
+    position: relative;
+    top: 8vmin;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
